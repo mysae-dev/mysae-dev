@@ -28,4 +28,3 @@
 - ⚡ Fun fact: I prefer coding in a terminal environment.
 
 ---
-![Snake animation](https://github.com/mysae-dev/mysae-dev/blob/output/github-contribution-grid-snake.svg)

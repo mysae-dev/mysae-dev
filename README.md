@@ -1,12 +1,12 @@
-# 👨‍💻 Welcome to my Terminal! 👋
+#  Welcome to my Terminal! 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maceanderson/maceanderson/master/assets/terminal.gif" width="600">
 </p>
 
 ### 🛰️ System Information
-- **User:** `mysae-dev`
-- **Age:** `15` (born in 2011)
+- **User:** `mysae`
+- **Age:** `15`
 - **OS:** `Termux / Linux`
 - **Focus:** `C++ Development`
 

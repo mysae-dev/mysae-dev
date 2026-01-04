@@ -28,12 +28,3 @@
 - ⚡ Fun fact: I prefer coding in a terminal environment.
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mysae-dev&show_icons=true&theme=tokyonight&count_private=true" alt="mysae's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysae-dev&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>

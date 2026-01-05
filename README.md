@@ -46,10 +46,6 @@
 <div align="center">
     <h2 align="center">Tech Stack & Tools</h2>
     <img src="https://skillicons.dev/icons?i=cpp,py,godot,cmake,git,linux,neovim,bash&theme=dark" alt="My Skills" />
-    <br><br>
-    <img src="https://img.shields.io/badge/Rank-Newbie-lightgrey?style=for-the-badge&logo=codeforces&logoColor=black" />
-</div>
-
 <br>
 
 <div align="center">

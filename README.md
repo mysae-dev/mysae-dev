@@ -30,7 +30,7 @@
     <tr>
         <td style="width: 60%; padding: 10px; vertical-align: top;">
             <h2>👋 Hello, I'm mysae!</h2>
-            <p>I am a <b>15-year-old</b> developer and competitive programmer. My main focus is mastering algorithms and data structures using <b>C++</b>. I am actively training on <b>Codeforces</b>, and my ultimate goal is to reach the <b>international level</b> in competitive programming.</p>
+            <p>I am a <b>15-year-old</b> developer and competitive programmer. My main focus is mastering algorithms and data structures using <b>C++</b>. I am currently a <b>Newbie</b> on <b>Codeforces</b>, and I am training hard to reach the <b>international level</b>.</p>
             <br>
             <p>Beyond the world of algorithms, I have a deep passion for game development. Currently, I'm working on an atmospheric <b>Horror Game</b> built with the <b>Godot Engine</b>. I love the challenge of combining technical complexity with dark, immersive storytelling.</p>
             <br>
@@ -38,6 +38,7 @@
         </td>
         <td style="width: 40%; padding: 10px; text-align: center; vertical-align: middle;">
             <img src="BODY.jfif" alt="Character" style="max-width: 100%; height: auto; border-radius: 8px; display: block; margin: 0 auto;" />
+            <p style="font-size: 10px; color: #444; margin-top: 10px;"><i>"I always come back" — William Afton</i></p>
         </td>
     </tr>
 </table>
@@ -46,8 +47,7 @@
     <h2 align="center">Tech Stack & Tools</h2>
     <img src="https://skillicons.dev/icons?i=cpp,py,godot,cmake,git,linux,neovim,bash&theme=dark" alt="My Skills" />
     <br><br>
-    <img src="https://img.shields.io/badge/Focus-Competitive%20Programming-black?style=for-the-badge&logo=codeforces&logoColor=white" />
-    <img src="https://img.shields.io/badge/Project-Horror%20Game-black?style=for-the-badge&logo=godotengine&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rank-Newbie-lightgrey?style=for-the-badge&logo=codeforces&logoColor=black" />
 </div>
 
 <br>

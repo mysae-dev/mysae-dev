@@ -54,6 +54,6 @@
 
 <div align="center">
   <h2 align="center">GitHub Analytics</h2>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mysae-dev&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=333333" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysae-dev&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&border_color=333333" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysae-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysae-dev&layout=compact&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="Langs" />
 </div>

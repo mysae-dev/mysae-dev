@@ -30,7 +30,7 @@
     <tr>
         <td style="width: 60%; padding: 10px; vertical-align: top;">
             <h2>👋 Hello, I'm mysae!</h2>
-            <p>I am a <b>15-year-old</b> developer and competitive programmer. My main focus is mastering algorithms and data structures using <b>C++</b>. I am currently a <b>Newbie</b> on <b>Codeforces</b>, and I am training hard to reach the <b>international level</b>.</p>
+            <p>I am a <b>15-year-old</b> developer and competitive programmer. My main focus is mastering algorithms and data structures using <b>C++</b>. I am actively training on <b>Codeforces</b> to reach the <b>international level</b>.</p>
             <br>
             <p>Beyond the world of algorithms, I have a deep passion for game development. Currently, I'm working on an atmospheric <b>Horror Game</b> built with the <b>Godot Engine</b>. I love the challenge of combining technical complexity with dark, immersive storytelling.</p>
             <br>
@@ -46,10 +46,11 @@
 <div align="center">
     <h2 align="center">Tech Stack & Tools</h2>
     <img src="https://skillicons.dev/icons?i=cpp,py,godot,cmake,git,linux,neovim,bash&theme=dark" alt="My Skills" />
+</div>
+
 <br>
 
 <div align="center">
   <h2 align="center">GitHub Analytics</h2>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysae-dev&show_icons=true&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysae-dev&layout=compact&theme=dark&bg_color=000000&hide_border=false&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff" alt="Langs" />
 </div>

@@ -3,23 +3,23 @@
 </p>
 
 <p align="center">
-    <a href="YOUR_TELEGRAM_URL" style="text-decoration: none;">
+    <a>
         <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" height="30" />
     </a>
     &nbsp;—&nbsp;
-    <a href="YOUR_DISCORD_URL" style="text-decoration: none;">
+    <a>
         <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" height="30" />
     </a>
     &nbsp;—&nbsp;
-    <a href="https://github.com/mysae-dev" style="text-decoration: none;">
+    <a>
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="30" />
     </a>
     &nbsp;—&nbsp;
-    <a href="YOUR_CODEFORCES_URL" style="text-decoration: none;">
+    <a>
         <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" height="30" />
     </a>
     &nbsp;—&nbsp;
-    <a href="YOUR_ITCH_URL" style="text-decoration: none;">
+    <a">
         <img src="https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itch.io&logoColor=white" height="30" />
     </a>
 </p>
